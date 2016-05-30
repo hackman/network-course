@@ -12,10 +12,8 @@ Lecture 1:
 
 Lecture 2:
 * Linux network basics
- + RedHat based
-  - /etc/sysconfig/network-scripts
- + Debian based
-  - /etc/networking
+ + RedHat based - /etc/sysconfig/network-scripts
+ + Debian based - /etc/networking
 
 Lecture 3:
 * Basic tools
@@ -30,7 +28,7 @@ Lecture 3:
 Lecture 4:
 * IP Route 2
  + multiple routing tables
- + creating vlans and bridges
+ + creating vlans, tunnels, bridges and so on
 
 Lecture 5:
 * Tunneling
@@ -38,3 +36,6 @@ Lecture 5:
  + Tinc
  + OpenVPN
 
+Lecture 6:
+ + BGP
+ + Bird

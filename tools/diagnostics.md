@@ -1,0 +1,9 @@
+* ping
+* arping
+* hping
+* traceroute
+* tcptraceroute
+* mtr
+* tcpdump
+* telnet
+* nc
