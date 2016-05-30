@@ -15,7 +15,6 @@ Lecture 2:
  + RedHat based - /etc/sysconfig/network-scripts
  + Debian based - /etc/networking
 
-Lecture 3:
 * Basic tools
  + ifconfig
  + route
@@ -25,17 +24,17 @@ Lecture 3:
  + iptables
  + brctl
 
-Lecture 4:
+Lecture 3:
 * IP Route 2
  + multiple routing tables
  + creating vlans, tunnels, bridges and so on
 
-Lecture 5:
+Lecture 4:
 * Tunneling
  + IPIP
  + Tinc
  + OpenVPN
 
-Lecture 6:
+Lecture 5:
  + BGP
  + Bird
